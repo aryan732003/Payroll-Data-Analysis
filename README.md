@@ -87,10 +87,5 @@ pip install pandas seaborn matplotlib pyodbc
 🔹 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/aryan-thombre-7596261b7/)]  
 
 📢 **If you found this project helpful, please ⭐ the repository!**  
-
----
-
-## **📢 Connect & Collaborate**  
-![GitHub Followers](https://img.shields.io/github/followers/aryan732003?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/aryan732003/Payroll-Data-Analysis?style=social)  
+--------------------------------------------------------------------
 
