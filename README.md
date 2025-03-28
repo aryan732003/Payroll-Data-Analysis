@@ -84,7 +84,7 @@ pip install pandas seaborn matplotlib pyodbc
 
 ## **📬 Contact**
 🔹 **GitHub:** [aryan732003](https://github.com/aryan732003)  
-🔹 **LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/aryan-thombre-7596261b7/)]  
+🔹 **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/aryan-thombre-7596261b7/)]  
 
 📢 **If you found this project helpful, please ⭐ the repository!**  
 --------------------------------------------------------------------
