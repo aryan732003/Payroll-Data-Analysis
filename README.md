@@ -2,7 +2,7 @@
 *A SQL + Python project for payroll data insights and visualization*  
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-red)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2020-red)  
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-✔️-orange)  
 ![Status](https://img.shields.io/badge/Project-Completed-success)  
 
